@@ -1,10 +1,10 @@
-# [FreshEyes](fresheyesfilter.com)
+# [Fresh Eyes](fresheyesfilter.com)
 
 This website uses a template that can be found at: [Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
 
 ## Overview
 
-FreshEyes is a Chrome extension that adapts the colors in webpages for individuals with color vision deficiencies. It was developed during CarlHacks 2015 and ended up winning the First Place award. [Try it out](https://chrome.google.com/webstore/detail/fresheyes/bgeggmjapkmjgniljnkgnbncpifgbnlk?hl=en&gl=US&authuser=1)!
+Fresh Eyes is a Chrome extension that adapts the colors in webpages for individuals with color vision deficiencies. It was developed during CarlHacks 2015 and ended up winning the First Place award. [Try it out](https://chrome.google.com/webstore/detail/fresheyes/bgeggmjapkmjgniljnkgnbncpifgbnlk?hl=en&gl=US&authuser=1)!
 
 ## Contact 
 
