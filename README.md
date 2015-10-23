@@ -1,26 +1,17 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+# [FreshEyes](fresheyesfilter.com)
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+This website uses a template that can be found at: [Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
 
-## Getting Started
+## Overview
 
-To use this theme, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+FreshEyes is a Chrome extension that adapts the colors in webpages for individuals with color vision deficiencies. It was developed during CarlHacks 2015 and ended up winning the First Place award. [Try it out](https://chrome.google.com/webstore/detail/fresheyes/bgeggmjapkmjgniljnkgnbncpifgbnlk?hl=en&gl=US&authuser=1)!
 
-## Bugs and Issues
+## Contact 
 
-Have a bug or an issue with this theme? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
-
-## Creator
-
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Partner at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
-
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+If have any questions or concers, you can email us at fresheyeschrome@gmail.com.
 
 ## Copyright and License
+
+The template used for this website has the following copyright:
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-creative/blob/gh-pages/LICENSE) license.
